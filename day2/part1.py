@@ -1,5 +1,4 @@
 res = 0
-# print("4-7".split("-"))
 while True:
     inp = input().split()
     if inp[0] == "end":
