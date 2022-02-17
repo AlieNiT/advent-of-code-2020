@@ -11,4 +11,4 @@ on their website, I thought it'd be a good idea if I uploaded them on GitHub.
 
 # 2020 Advent calender
 
-<img src="https://github.com/AlieNiT/adventofcode/blob/master/img.png" alt="alt text" width="500" height="450">
+<img src="https://github.com/AlieNiT/advent-of-code-2020/blob/master/img.png" alt="alt text" width="500" height="450">
